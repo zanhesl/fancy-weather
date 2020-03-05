@@ -1,2 +1,2 @@
-# fancy-weather
-Simple weather app(cloned from dedicated rs-school repository)
+# zanhesl-RS2019Q3
+Private repository for @zanhesl
